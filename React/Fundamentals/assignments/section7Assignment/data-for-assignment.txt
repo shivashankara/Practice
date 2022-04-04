@@ -1,0 +1,32 @@
+ const users = [
+            { id: 1, name: 'adam', isLoggedIn: false }, 
+            { id: 2, name: 'steve', isLoggedIn: true }, 
+            { id: 3, name: 'dona', isLoggedIn: true }, 
+            { id: 4, name: 'kumar', isLoggedIn: false } 
+        ]
+
+
+ const user1 = { id: 1, name: 'adam', isLoggedIn: false }
+    const user2 = { id: 2, name: 'steve', isLoggedIn: true }
+
+   const user1 = { id: 1, name: 'Dona', avatar: 'https://i.ibb.co/FKvv2Mr/donna.png' }
+    const user2 = { id: 1, name: 'Rachel', avatar: '' }
+
+function DefaultAvatar(props) {
+        return (
+            default user pic 
+        )
+    }
+
+ const user1 = { id: 1, name: 'user1', email: 'user1@gmail.com', city: 'bangalore'}
+    const user2 = { id: 1, name: 'user1', email: '', city: ''}
+
+veg icon - https://i.ibb.co/kQQyRwP/veg.png
+non veg icon - https://i.ibb.co/stN0gCz/non-veg.png
+
+const menuItems = [
+            { id: 1, name: 'Aloo Dum Biryani', price: 114, isVeg: true, image: 'https://i.ibb.co/MRr0V8h/aloo-biryani.png' },
+            { id: 2, name: 'Chicken Kebab', price: 142, isVeg: false, image: 'https://i.ibb.co/nBxxxp6/chicken-kebab.png' },
+            { id: 3, name: 'Chicken Lollipop', price: 153,  isVeg: false, image: 'https://i.ibb.co/09YrZNn/chicken-lollipop.png' },
+            { id: 4, name: 'Chicken Biryani', price: 148, isVeg: false, image: 'https://i.ibb.co/gv3FYqh/chicken-biryani.png' }
+        ]

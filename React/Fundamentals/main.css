@@ -1,0 +1,21 @@
+/* 
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Black.ttf);
+    src: url(fonts/Roboto/Roboto-BlackItalic.ttf);
+    src: url(fonts/Roboto/Roboto-Bold.ttf);
+    src: url(fonts/Roboto/Roboto-Italic.ttf);
+    src: url(fonts/Roboto/Roboto-Regular.ttf);
+    src: url(fonts/Roboto/Roboto-Medium.ttf);
+  }
+   */
+
+body{
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: aliceblue;
+}
+.container{
+    width:1080px;
+    margin: 0 auto;
+}
